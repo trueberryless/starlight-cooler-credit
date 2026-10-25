@@ -15,11 +15,11 @@
   ],
   "homepage": "https://starlight-cooler-credit.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-cooler-credit/issues"
+    "url": "https://github.com/trueberryless/starlight-cooler-credit/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-cooler-credit.git",
+    "url": "https://github.com/trueberryless/starlight-cooler-credit.git",
     "directory": "packages/starlight-cooler-credit"
   },
   "license": "MIT",

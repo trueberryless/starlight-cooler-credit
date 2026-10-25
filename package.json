@@ -3,13 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "description": "Starlight plugin to add a nice credit to Starlight, Astro, or any other project at the bottom of the table of contents.",
-  "homepage": "https://github.com/trueberryless-org/starlight-cooler-credit",
+  "homepage": "https://github.com/trueberryless/starlight-cooler-credit",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-cooler-credit/issues"
+    "url": "https://github.com/trueberryless/starlight-cooler-credit/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-cooler-credit.git"
+    "url": "https://github.com/trueberryless/starlight-cooler-credit.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",

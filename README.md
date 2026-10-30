@@ -10,7 +10,7 @@ Read the [Starlight Cooler Credit docs](https://starlight-cooler-credit.netlify.
 
 ## Package
 
-If you are looking for the Starlight plugin package, you can find it in the [`packages/starlight-cooler-credit/`](https://github.com/trueberryless-org/starlight-cooler-credit/tree/main/packages/starlight-cooler-credit) directory.
+If you are looking for the Starlight plugin package, you can find it in the [`packages/starlight-cooler-credit/`](https://github.com/trueberryless/starlight-cooler-credit/tree/main/packages/starlight-cooler-credit) directory.
 
 ## Project structure
 
@@ -20,4 +20,4 @@ This project uses pnpm workspaces to develop a single Starlight plugin from the 
 
 Licensed under the MIT License, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-cooler-credit/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-cooler-credit/blob/main/LICENSE) for more information.

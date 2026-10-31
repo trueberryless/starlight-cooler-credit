@@ -1,6 +1,6 @@
 {
   "name": "starlight-cooler-credit",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Starlight plugin to add a nice credit to Starlight, Astro, or any other project at the bottom of the table of contents.",
   "keywords": [
     "starlight",

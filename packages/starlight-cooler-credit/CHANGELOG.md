@@ -1,5 +1,11 @@
 # starlight-cooler-credit
 
+## 0.7.1
+
+### Patch Changes
+
+- [#159](https://github.com/trueberryless/starlight-cooler-credit/pull/159) [`9276957`](https://github.com/trueberryless/starlight-cooler-credit/commit/92769572ea8745ae470b0334b520114dd68bcf56) Thanks [@trueberryless-bot](https://github.com/trueberryless-bot)! - Updates the repository links after the move from the `trueberryless-org` GitHub organization to the `trueberryless` account.
+
 ## 0.7.0
 
 ### Minor Changes
